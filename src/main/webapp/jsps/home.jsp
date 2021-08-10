@@ -24,9 +24,9 @@
 	
 	
 		<br>
-		<a href="https://www.youtube.com/channel/UCaa5Ki-uWTt_BDu0l9gJX2Q">Chick here to open Golden Thoughts Youtube Chennel</a>
+		<a href="https://www.youtube.com/channel/UCaa5Ki-uWTt_BDu0l9gJX2Q">Chick here to open Golden Thoughts Youtube Chennel</a> \
 		
-		<a href="https://www.instagram.com/golden_thoughts__/">Chick here to open Golden Thoughts Instagram page</a>
+		<a href="https://www.instagram.com/golden_thoughts__/">Chick here to open Golden Thoughts Instagram page</a> \
 		
 		<a href="https://m.facebook.com/goldenthoughtsbrr/">Chick here to open Golden Thoughts Face Book page</a>
 	</span>
