@@ -1,0 +1,21 @@
+node 
+{
+    
+    def mavenHome=tool name :'Maven'
+    stage('git clone'){
+        git 'https://github.com/nandu100reddy/maven-web-application.git'
+    }
+    
+    stage('mvn package'){
+        
+        sh "${mavenHome}/bin/mvn clean package"
+    }
+    
+    stage('deployg applicaton'){
+        sshagent(['a6af5f9e-6a6c-4d04-8a0c-513b1ce4d351']) {
+    sh "scp -o StrictHostKeyChecking=no target/maven-web-application.war ec2-user@13.127.195.126:/opt/apache-tomcat-9.0.52/webapps "
+}
+    }
+}
+
+
