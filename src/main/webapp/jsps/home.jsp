@@ -11,7 +11,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to Golden Thoughts .</h1>
-<h1 align="center"> It is a Youtube Channel. In this Youtube Channel having Short Filims, cover so , Editing Tutorials and MushUp Videos Please visit Golden Thoughts Youtube Channel and watch and Subcribe it </h1>
+<h1 align="center"> It is a Youtube Channel. In this Youtube Channel having Short Filims, cover songs , Editing Tutorials and MushUp Videos Please visit Golden Thoughts Youtube Channel and watch and Subcribe it </h1>
 <hr>
 <div style="text-align: center;">
 	<span>
