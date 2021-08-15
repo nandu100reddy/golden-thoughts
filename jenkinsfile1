@@ -3,7 +3,7 @@ node
     
     def mavenHome=tool name :'Maven'
     stage('git clone'){
-        git 'https://github.com/nandu100reddy/maven-web-application.git'
+        git 'https://github.com/nandu100reddy/golden-thoughts.git'
     }
     
     stage('mvn package'){
