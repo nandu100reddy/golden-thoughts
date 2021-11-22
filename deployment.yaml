@@ -22,7 +22,7 @@ spec:
     spec:
       containers:
       - name: javawebappcontainer
-        image: 447083649628.dkr.ecr.ap-south-1.amazonaws.com/java-web-app:${BUILD_NUMBER}
+        image: 447083649628.dkr.ecr.ap-south-1.amazonaws.com/java-web-app
         ports:
         - containerPort: 8080
 
